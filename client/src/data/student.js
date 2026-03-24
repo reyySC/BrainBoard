@@ -1,0 +1,16 @@
+export const STUDENT = {
+  name: "Alex Johnson",
+  id: "2024-0371",
+  semester: "Spring 2026",
+  week: 10,
+  totalWeeks: 16,
+  daysToFinals: 42,
+  dob: "August 14, 2003",
+  year: "Senior (4th Year)",
+  major: "Computer Science",
+  minor: "Mathematics",
+  pronouns: "he/him",
+  email: "ajohnson@meridian.edu",
+  phone: "(555) 234-8901",
+  bio: "CS senior passionate about systems programming and AI. Currently working on a capstone project in distributed computing. Loves hackathons, coffee, and late-night debugging sessions.",
+};
